@@ -1,0 +1,10 @@
+{
+  "RedshiftBokeh": ".dofBokehImage",
+  "RedshiftLensDistortion": ".LDimage",
+  "RedshiftLightGobo": ".tex0",
+  "RedshiftCameraMap": ".tex0",
+  "RedshiftNormalMap": ".tex0",
+  "RedshiftProxyMesh": ".fn",
+  "RedshiftDomeLight": ".tex0",
+  "RedshiftVolumeShape": ".fn"
+}
